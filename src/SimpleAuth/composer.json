@@ -1,0 +1,16 @@
+{
+  "name": "hp/simple-auth",
+  "description": "test lib for adabtor",
+  "autoload": {
+    "psr-4": {
+      "SimpleAuth": "SimpleAuth/"
+    }
+  },
+  "authors": [
+    {
+      "name": "salah",
+      "email": "salah.eldeen.mail@gmail.com"
+    }
+  ],
+  "require": {}
+}

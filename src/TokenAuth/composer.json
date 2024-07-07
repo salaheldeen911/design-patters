@@ -1,0 +1,17 @@
+{
+  "name": "hp/token-auth",
+  "autoload": {
+    "psr-4": {
+      "psr-4": {
+        "TokenAuth": "TokenAuth/"
+      }
+    }
+  },
+  "authors": [
+    {
+      "name": "salah",
+      "email": "salah.eldeen.mail@gmail.com"
+    }
+  ],
+  "require": {}
+}
